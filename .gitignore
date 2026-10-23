@@ -1,0 +1,26 @@
+# Gradle
+.gradle/
+/build/
+**/build/
+.kotlin/
+
+# Local machine configuration
+local.properties
+
+# Android Studio / IntelliJ
+.idea/
+*.iml
+
+# Visual Studio Code
+.vscode/
+
+# Android build artifacts
+*.apk
+*.aab
+*.ap_
+
+# Generated and local files
+captures/
+.externalNativeBuild/
+.cxx/
+*.log
